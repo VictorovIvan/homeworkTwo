@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import TaskThree.*;
 
 /**
  * Main class
@@ -10,10 +11,9 @@ public class Main {
     public static void main(String[] args) {
         TaskOne modelError = new TaskOne();
         TaskTwo random = new TaskTwo();
-        TaskThree.Person sortObj[];
-        long reamainTime;
+        Person sortObj[];
 
-        sortObj = TaskThree.Person.generateSomethingObjects(1000);
+        sortObj = Person.generateSomethingObjects(1000);
 
         modelError.modelNullPointerException();
         modelError.modelArrayIndexOutOfBoundsException();
@@ -22,7 +22,7 @@ public class Main {
         random.genRandomNumb(5);
 
         System.out.println("Время сортировки: " +
-                TaskThree.Person.sortComparatorWithCalcTime(sortObj, TaskThree.Person.CompareToAgeToSexToName)
+                SortWithComp.sortComparatorWithCalcTime(sortObj, SortWithComp.CompareToAgeToSexToName)
                 + " MiliSecunds");
         System.out.println("Cортировка:\n" + Arrays.toString(sortObj));
     }
