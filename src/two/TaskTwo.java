@@ -24,21 +24,27 @@ public class TaskTwo {
      *
      * @param sizeRandomNumb size random numbers
      */
-    public void genRandomNumb(int sizeRandomNumb) {
+    public void     genRandomNumb(int sizeRandomNumb) {
         double sqrtQ[] = new double[sizeRandomNumb];
         byte bytes[] = new byte[sizeRandomNumb];
         this.random.nextBytes(bytes);
+        int cntEntrCmp = 0;
         for (int curRandomNumb = 0; curRandomNumb < bytes.length; curRandomNumb++) {
             try {
                 if (bytes[curRandomNumb] < 0) {
                     throw new ArithmeticException();
                 }
             } catch (Exception ex) {
+                System.out.println("Сгенерировано отрицательное число");
                 continue;
             }
             if (curRandomNumb == (int) Math.sqrt(bytes[curRandomNumb])) {
                 System.out.println(Math.sqrt(bytes[curRandomNumb]));
+                cntEntrCmp++;
             }
+        }
+        if(cntEntrCmp==0){
+            System.out.println("Cгенерированные числа не удовлетворяют условию: квадрат целой части q числа равен k");
         }
     }
 }

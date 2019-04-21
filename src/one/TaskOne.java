@@ -24,6 +24,7 @@ public class TaskOne {
     public void modelNullPointerException() {
         String str = null;
         try {
+            System.out.println("Hello World");
             System.out.println(str.length());
         } catch (Exception ex) {
             System.out.println(ex.toString());
@@ -41,6 +42,7 @@ public class TaskOne {
 
         while (true) {
             try {
+                System.out.println("Hello World");
                 nArray[indx] = indx;
             } catch (Exception ex) {
                 System.out.println(ex.toString());
@@ -57,6 +59,7 @@ public class TaskOne {
      */
     public void modelThrowMyException() {
         try {
+            System.out.println("Hello World");
             throw new IOException("Something exception");
         } catch (IOException ex) {
             System.out.println(ex.toString());
