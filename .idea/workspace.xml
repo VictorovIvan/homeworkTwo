@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5313640d-e14d-4ef8-95b7-4b53e18dee9c" name="Default Changelist" comment="Added ignore .kotlin_module">
+    <list default="true" id="5313640d-e14d-4ef8-95b7-4b53e18dee9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+            <state relative-caret-position="289">
+              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -92,6 +83,11 @@
             <path>
               <item name="homework_02" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +155,7 @@
       <workItem from="1555796154317" duration="2780000" />
       <workItem from="1555798976714" duration="260000" />
       <workItem from="1555859889706" duration="1390000" />
-      <workItem from="1555861345623" duration="3137000" />
+      <workItem from="1555861345623" duration="4027000" />
     </task>
     <task id="LOCAL-00001" summary="Added .gitignore">
       <created>1555709941914</created>
@@ -196,11 +192,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555863745770</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Modifed .gitignore">
+      <created>1555864567548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555864567548</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24785000" />
+    <option name="totallyTimeSpent" value="25675000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +300,8 @@
     <MESSAGE value="Added BubbleSort" />
     <MESSAGE value="Added comment to BubbleSort" />
     <MESSAGE value="Added ignore .kotlin_module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ignore .kotlin_module" />
+    <MESSAGE value="Modifed .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifed .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,15 +472,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="51">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
         </state>
       </provider>
     </entry>
