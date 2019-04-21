@@ -1,5 +1,5 @@
 # IntellijIdea files
 *.iml
-.idea
+.idea./
 .kotlin_module
 out
