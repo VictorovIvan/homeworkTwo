@@ -24,7 +24,7 @@ public class TaskTwo {
      *
      * @param sizeRandomNumb size random numbers
      */
-    public void     genRandomNumb(int sizeRandomNumb) {
+    public void genRandomNumb(int sizeRandomNumb) {
         double sqrtQ[] = new double[sizeRandomNumb];
         byte bytes[] = new byte[sizeRandomNumb];
         this.random.nextBytes(bytes);
@@ -39,11 +39,12 @@ public class TaskTwo {
                 continue;
             }
             if (curRandomNumb == (int) Math.sqrt(bytes[curRandomNumb])) {
-                System.out.println(Math.sqrt(bytes[curRandomNumb]));
+                System.out.println("Число " + Math.sqrt(bytes[curRandomNumb]) + " удовлетворяет условию : " +
+                        "квадрат целой части q числа равен k");
                 cntEntrCmp++;
             }
         }
-        if(cntEntrCmp==0){
+        if (cntEntrCmp == 0) {
             System.out.println("Cгенерированные числа не удовлетворяют условию: квадрат целой части q числа равен k");
         }
     }

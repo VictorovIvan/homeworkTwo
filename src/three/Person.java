@@ -4,6 +4,7 @@ import java.nio.charset.Charset;
 import java.security.SecureRandom;
 import java.util.Comparator;
 import java.util.Random;
+
 import three.usrexc.*;
 /**
  * <p>Задание 3.</p>
@@ -139,10 +140,14 @@ public class Person {
 
         Person genObj[] = new Person[sizeArr];
         SecureRandom random = new SecureRandom();
+        SecureRandom randomLengthWord = new SecureRandom();
         int agePerson;
 
         for (int nmbGen = 0; nmbGen < sizeArr; nmbGen++) {
-            byte[] array = new byte[7];
+            int lengthword;
+            lengthword = randomLengthWord.nextInt(10);
+
+            byte[] array = new byte[lengthword + 3];
             new Random().nextBytes(array);
             String generatedString = new String(array, Charset.forName("WINDOWS-1251"));
             agePerson = random.nextInt(101);
