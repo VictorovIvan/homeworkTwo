@@ -1,3 +1,5 @@
+package one;
+
 import java.io.IOException;
 
 /**
@@ -34,17 +36,17 @@ public class TaskOne {
      * @throws ArrayIndexOutOfBoundsException
      */
     public void modelArrayIndexOutOfBoundsException() {
-        int i = 0;
+        int indx = 0;
         int[] nArray = new int[5];
 
         while (true) {
             try {
-                nArray[i] = i;
+                nArray[indx] = indx;
             } catch (Exception ex) {
                 System.out.println(ex.toString());
                 break;
             }
-            i++;
+            indx++;
         }
     }
 
