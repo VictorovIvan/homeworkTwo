@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5313640d-e14d-4ef8-95b7-4b53e18dee9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework_02/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework_02/META-INF/homework_02.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/TaskOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/two/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/TaskTwo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+            <state relative-caret-position="-69">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,37 +29,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/URLClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5542">
-              <caret line="380" column="18" selection-start-line="380" selection-start-column="18" selection-end-line="380" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6120">
-              <caret line="423" column="24" selection-start-line="423" selection-start-column="24" selection-end-line="423" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Launcher.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/one/TaskOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
+            <state relative-caret-position="-1">
               <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/three/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="145" column="44" lean-forward="true" selection-start-line="145" selection-start-column="44" selection-end-line="145" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/three/BubbleSortUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/three/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/three/usrexc/UserException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -73,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/three/SortWithComp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="71" />
+            <state relative-caret-position="170">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/two/TaskTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="476">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -117,7 +126,6 @@
         <option value="$PROJECT_DIR$/src/TaskThree/Person.java" />
         <option value="$PROJECT_DIR$/src/three/usrexc/UserExceprion.java" />
         <option value="$PROJECT_DIR$/src/three/SortWithComp.java" />
-        <option value="$PROJECT_DIR$/src/three/Person.java" />
         <option value="$PROJECT_DIR$/src/three/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/three/BubbleSortUtil.java" />
         <option value="$PROJECT_DIR$/src/three/usrexc/UserException.java" />
@@ -126,14 +134,14 @@
         <option value="$PROJECT_DIR$/src/one/TaskOne.java" />
         <option value="$PROJECT_DIR$/src/two/TaskTwo.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/three/Person.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -174,6 +182,13 @@
               <item name="homework_02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="three" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework_02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+              <item name="usrexc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework_02" type="b2602c69:ProjectViewProjectNode" />
@@ -251,7 +266,11 @@
       <workItem from="1555859889706" duration="1390000" />
       <workItem from="1555861345623" duration="5799000" />
       <workItem from="1555868009134" duration="40000" />
-      <workItem from="1555868091648" duration="64000" />
+      <workItem from="1555868091648" duration="2065000" />
+      <workItem from="1555872287118" duration="104000" />
+      <workItem from="1555872574627" duration="140000" />
+      <workItem from="1555952824587" duration="249000" />
+      <workItem from="1558038064873" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="Added .gitignore">
       <created>1555709941914</created>
@@ -302,11 +321,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555866198375</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Modifed .gitignore">
+      <created>1555868222293</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555868222294</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added random length name: task 3">
+      <created>1555870040112</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555870040112</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27551000" />
+    <option name="totallyTimeSpent" value="30133000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,7 +354,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -331,16 +364,16 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49394855" visible="true" weight="0.33794162" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5945537" weight="0.51152074" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32872504" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Ant Build" order="9" sideWeight="0.5060514" side_tool="true" visible="true" weight="0.33794162" />
+      <window_info anchor="bottom" id="Ant Build" order="9" sideWeight="0.4054463" side_tool="true" visible="true" weight="0.061443932" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4977307" weight="0.32872504" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4969743" weight="0.39784947" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.7125567" weight="0.32258064" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -404,7 +437,8 @@
     <MESSAGE value="Added comment to BubbleSort" />
     <MESSAGE value="Added ignore .kotlin_module" />
     <MESSAGE value="Modifed .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifed .gitignore" />
+    <MESSAGE value="Added random length name: task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added random length name: task 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,54 +520,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/usrexc/UserException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="143" column="17" lean-forward="true" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/AssertionError.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/BubbleSortUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -559,30 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/one/TaskOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three/SortWithComp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/TaskTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Launcher.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -590,10 +556,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="274" column="29" lean-forward="true" selection-end-line="1227" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        <state relative-caret-position="-69">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/three/BubbleSortUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/two/TaskTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/three/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="145" column="44" lean-forward="true" selection-start-line="145" selection-start-column="44" selection-end-line="145" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/three/SortWithComp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/one/TaskOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/three/usrexc/UserException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/three/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
